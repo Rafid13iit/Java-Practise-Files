@@ -1,0 +1,1 @@
+Creating a abstract class named Shape as super class of the hierarchy for classes Rectangle, Circle, Triangle. An application that instantiates object from classes and output of their areas is performed.
